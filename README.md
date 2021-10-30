@@ -1,2 +1,3 @@
 # readme
-Hello word
+Hello world
+Alex principiante
